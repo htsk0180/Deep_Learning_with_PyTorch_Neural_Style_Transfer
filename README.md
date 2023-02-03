@@ -1,2 +1,2 @@
 # Deep_Learning_with_PyTorch_Neural_Style_Transfer
- 
+ Pytorch kullanarak sinirsel stil transferini uygulamaya bakacağız. Sinirsel Stil aktarımı, bir içerik ve stil görüntüsü almak ve bunları bir araya getirmek için kullanılan bir optimizasyon tekniğidir, böylece çıktı görüntüsü içerik görüntüsüne benzer, ancak stil görüntüsünün stilinde boyanır. İçeriği ve verilen stil görüntüsünü kullanarak sanatsal stil görüntüsü oluşturacağız. İçerik ve stil kaybı işlevini hesaplayacağız. İçerik özelliklerini ve stil özelliklerini koruyan sanatsal bir stil görüntüsü elde etmek için optimizasyon tekniklerini kullanarak bu kayıp işlevini en aza indireceğiz.
